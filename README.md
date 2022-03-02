@@ -1,6 +1,6 @@
 <h2> Hi, I'm Martin Hutchings! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50"></h2>
 <img align='right' src="https://media1.giphy.com/media/zKAUwFIbFiKAyCrKjZ/giphy.gif" width="230">
-<p><em>Head Instructor of Web Development at <a href="http://www.sae.ch">SAE Institute Zürich</a><img src="https://media4.giphy.com/media/d9AC9cKuNu165UxNtj/giphy.gif" width="30">
+<p><em>Head Instructor of Web Development at <a href="http://www.sae.ch">SAE Institute Zürich</a>
 </em></p>
 
 [![Linkedin: martin-hutchings](https://img.shields.io/badge/-martinhutchings-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-hutchings-a2417883/)](https://www.linkedin.com/in/martin-hutchings-a2417883/)
