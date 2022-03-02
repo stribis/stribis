@@ -21,6 +21,6 @@ const swisscolombian = {
 }
 ```
 
-<img src="https://media1.giphy.com/media/KH3EFVAvUtbxgAWpMj/giphy.gif" width="60"> <em><b>Don't be afraid to connect with me, even if you are my student</b> ❤️</em>
+<img src="https://media1.giphy.com/media/KH3EFVAvUtbxgAWpMj/giphy.gif" width="100"> <em><b>Don't be afraid to connect with me, even if you are my student</b> ❤️</em>
 
 ---
