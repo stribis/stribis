@@ -3,7 +3,7 @@
 <p><em>Head Instructor of Web Development at <a href="http://www.sae.ch">SAE Institute Zürich</a><img src="https://media4.giphy.com/media/d9AC9cKuNu165UxNtj/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: martin-hutchings](https://img.shields.io/badge/-martin-hutchings-a2417883-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-hutchings-a2417883/)](https://www.linkedin.com/in/martin-hutchings-a2417883/)
+[![Linkedin: martin-hutchings](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-hutchings-a2417883/)
 [![GitHub Stribis](https://img.shields.io/github/followers/stribis?label=follow&style=social)](https://github.com/stribis)
 
 
