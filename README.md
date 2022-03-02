@@ -12,11 +12,11 @@
 ```javascript
 const swisscolombian = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, Javascript, PHP, Node, Python],
-  tools: [React, Express, jQuery, GSAP, Laravel],
-  hobbies: ["riding motorcycle", "tennis", "gaming", "programming"],
-  greeting: function () {
-    console.log("Web Developer based in Zürich")
+  code: ['HTML', 'CSS', 'Javascript', 'PHP', 'Node', 'Python'],
+  tools: ['React', 'Express', 'jQuery', 'GSAP', 'Laravel'],
+  hobbies: ['riding motorcycle', 'tennis', 'gaming', 'programming'],
+  job: function () {
+    console.log('Web Developer based in Zürich who teaches for a living')
   }
 }
 ```
